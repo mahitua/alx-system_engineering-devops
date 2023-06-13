@@ -1,0 +1,17 @@
+total 0
+drwxr-xr-x 1 mahi mahi 4096 Jun 12 12:49 .
+drwxr-xr-x 1 mahi mahi 4096 Jun 12 04:06 ..
+-rwxr-xr-x 1 mahi mahi   38 Jun 12 04:15 0-hello_world
+-rwxr--r-- 1 mahi mahi   28 Jun 12 02:18 1-confused_smiley
+-rwxr--r-- 1 mahi mahi   28 Jun 12 02:21 2-hellofile
+-rwxr-xr-x 1 mahi mahi   39 Jun 12 02:39 3-twofiles
+-rwxr--r-- 1 mahi mahi   29 Jun 12 02:42 4-lastlines
+-rwxr--r-- 1 mahi mahi   29 Jun 12 04:19 5-firstlines
+-rwxr--r-- 1 mahi mahi   41 Jun 12 04:32 6-third_line
+-rwxr--r-- 1 mahi mahi   58 Jun 12 04:49 7-file
+-rwxr--r-- 1 mahi mahi   36 Jun 12 12:48 8-cwd_state
+-rwxr--r-- 1 mahi mahi   37 Jun 12 12:41 9-duplicate_last_line
+-rw-r--r-- 1 mahi mahi   41 Jun 12 02:00 README.md
+-rw-r--r-- 1 mahi mahi    0 Jun 12 04:49 School\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 mahi mahi   51 Jun 12 12:45 iacta
+-rw-r--r-- 1 mahi mahi    0 Jun 12 12:49 ls_cwd_content
